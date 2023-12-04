@@ -2,4 +2,4 @@
 
 ## Project List
 
-1. [Car Price Prediciton Model](Car Price Prediction Model/Car_Price_Prediction.ipynb)
+1. [Car Price Prediciton Model](https://github.com/SakhilTaneja/DataSciencePortfolio/blob/main/Car%20Price%20Prediction%20Model/Car_Price_Prediction.ipynb)
